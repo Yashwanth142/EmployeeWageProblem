@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace EmployeeWageProblem
 {
-    public class EmployeeAttendance
+    public class EmployeeMonthWage
     {
-        public static void CheckAttendance()
+        public static void EmployeeWage()
         {
             int IS_FULL_TIME = 1;
             int EMP_RATE_PER_HOUR = 20;
