@@ -6,7 +6,7 @@
         {
             Console.WriteLine("Welcome to Employee Wage Computation Program");
             //EmployeeAttendance.CheckAttendance();
-            Switchcase.SwitchCase();
+            EmployeeMonthWage.EmployeeWage();
 
         }
     }
